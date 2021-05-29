@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Squada One', cursive;
+}
+.carousel-item img{
+    width: 100%;
+    height: 93vh;
+}
+
+.main-heading img{
+    width: 100%;
+    max-height: 280px;
+}
+.main-heading p{
+    font-family: 'Times New Roman', Times, serif ;
+}
+.card-group img{
+    height: 240px;
+    width: 100%;
+}
+.f_style
+{
+    background:#a6dcef;
+}
